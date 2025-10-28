@@ -12,3 +12,8 @@ void greeting() {
   cout << "Hello I'm Kaka" << endl;
 }
 ```
+
+- [x] Create a login page
+- [X] Create a register page
+- [ ] Test api
+
