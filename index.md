@@ -6,3 +6,9 @@
 # <h5>Hello I'm Kaka</h1>
 # <h6>Hello I'm Kaka</h1>
 ![Image of Kaka](https://github.com/Mkhai205/Mkhai205/blob/main/avatar.webp)
+
+``` c++
+void greeting() {
+  cout << "Hello I'm Kaka" << endl;
+}
+```
